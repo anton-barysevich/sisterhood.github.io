@@ -134,7 +134,7 @@ section {
 }
 
 .matcha-item-desc{
-    margin: 20px;
+    margin: 20px 12px;
     margin-top: 0;
     display: flex;
     justify-content: space-between;
