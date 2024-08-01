@@ -147,11 +147,13 @@ section {
 .matcha-item-name{
     max-width: 66%;
     margin-right: 2.5%;
+    text-align: left;
 }
 
 .matcha-item-price{
     width: 30%;
     font-size: 16px;
+    text-align: right;
 }
 
 
