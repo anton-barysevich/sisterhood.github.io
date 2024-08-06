@@ -228,12 +228,12 @@ section {
         max-width: 100%;
         margin: 5px;
         text-align: center;
-        font-size: 14px;
+        font-size: 12px;
     }
     .matcha-item-price{
         width: 100%;
         margin: 5px;
         text-align: center;
-        font-size: 15px
+        font-size: 13px
     }
 }
