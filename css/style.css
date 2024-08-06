@@ -187,10 +187,6 @@ section {
 
 
 @media (max-width : 640px) {
-    .header-menu{
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-    }
     .header-menu-item{
         width: 60px;
         border-radius: 25px;
@@ -208,9 +204,8 @@ section {
     .coffee-section{
         padding: 10px 15px;
     }
-    .section-items{
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
+    .matcha-section{
+        padding: 10px 15px
     }
     .item{
         width: 110px;
@@ -220,7 +215,7 @@ section {
     }
     .matcha-item{
         margin: 10px;
-        width: 45%;
+        width: 38%;
     }
     .item img{
         margin: 5% 15%;
