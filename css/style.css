@@ -235,4 +235,7 @@ section {
         text-align: center;
         font-size: 13px
     }
+    body{
+        padding-bottom: 20px
+    }
 }
