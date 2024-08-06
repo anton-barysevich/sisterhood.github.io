@@ -211,7 +211,7 @@ section {
         width: 110px;
         display: flex;
         justify-content: center;
-
+        height: 32vh;
     }
     .matcha-item{
         margin: 10px;
