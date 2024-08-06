@@ -213,11 +213,11 @@ section {
         justify-content: center;
     }
     .matcha-item{
-        margin: 10px;
+        margin: 25px;
         width: 38%;
     }
     .item img{
-        margin: 2.5% 15%;
+        margin:5% 15% 2.5% 15%;
     }
     .matcha-item-desc{
         display: flex;
