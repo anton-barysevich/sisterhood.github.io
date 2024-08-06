@@ -226,7 +226,7 @@ section {
     }
     .matcha-item-name{
         max-width: 100%;
-        margin: 2.5px;
+        margin: 2.5px 0;
         text-align: center;
         font-size: 12px;
     }
