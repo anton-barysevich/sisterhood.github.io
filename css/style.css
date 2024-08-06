@@ -218,7 +218,7 @@ section {
         width: 38%;
     }
     .item img{
-        margin: 5% 15%;
+        margin: 2.5% 15%;
     }
     .matcha-item-desc{
         display: flex;
@@ -226,13 +226,13 @@ section {
     }
     .matcha-item-name{
         max-width: 100%;
-        margin: 5px;
+        margin: 2.5px;
         text-align: center;
         font-size: 12px;
     }
     .matcha-item-price{
         width: 100%;
-        margin: 5px;
+        margin: 2.5px;
         text-align: center;
         font-size: 13px
     }
